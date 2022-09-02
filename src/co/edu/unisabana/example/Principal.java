@@ -6,6 +6,10 @@ public class Principal {
         new spitty();
         new swingit();
         
+        System.out.println("Hola mundo");
+        new division();
+        new Suma();
+        new multiplicacion();
     }
 
     
