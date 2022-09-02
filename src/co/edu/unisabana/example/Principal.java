@@ -5,6 +5,8 @@ public class Principal {
         System.out.println("Hola mundo");
 
         radicacion.rad();
+        System.out.println(Resta.rest());
+        System.out.println(multiplicacion.mult());
 
     }
 }
