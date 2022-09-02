@@ -3,10 +3,10 @@ package co.edu.unisabana.example;
 public class division{
 
     public division(){
-        this.division();
+        this.Division();
     }
 
-    private void division() {
+    private void Division() {
         float a = 8;
         float b = 2;
         float res;
