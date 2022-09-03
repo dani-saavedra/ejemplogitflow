@@ -10,6 +10,7 @@ public class Principal {
         new division();
         new Suma();
         new multiplicacion();
+        new media();
     }
 
     
